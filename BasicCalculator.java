@@ -1,5 +1,3 @@
-
-package simpleJavaProjects;
 import java.util.Scanner;
 class BasicCalculator{
     double num1;
